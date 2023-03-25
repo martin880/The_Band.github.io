@@ -72,8 +72,7 @@ body {
 /* slider */
 #frontImage {
 	position: relative;
-	background: url(./img/alexandre-st-louis-IlfpKwRMln0-unsplash.jpg) no-repeat
-		top center;
+	background: url(./img/alexandre-st-louis.jpg) no-repeat top center;
 	background-size: cover;
 	padding-top: 50%;
 	margin-top: 46px;
